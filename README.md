@@ -1,1 +1,1 @@
-# idle-restaurant
+餐厅模拟器
